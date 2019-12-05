@@ -27,3 +27,19 @@
 ```java
     sudo ./daytimetcpcil 127.0.0.1
 ```
+>2019.12.5 ctags:<br>
+```java
+    ctags -R *:生成ctags
+    less tags: 执行一下，看看生成的tags
+    :set tags+=../tags
+    :set tags+=/usr/include/tags
+```
+>2.note:<br>
+```java
+ls -lrt :list 倒序 time
+echo server/client: say hello
+
+
+
+
+```
